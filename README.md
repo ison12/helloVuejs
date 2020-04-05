@@ -23,3 +23,5 @@ Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリ�
 
     npm run build
 
+## 元になった記事
+[Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリケーションを構築する - フロントエンド環境編](https://qiita.com/ison12/items/b336766bd6ca01cd62a3)
