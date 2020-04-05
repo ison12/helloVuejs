@@ -1,6 +1,12 @@
 # helloVuejs
 Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリケーションを構築する
 
+## ツールなどのインストール
+
+### Node.jsのインストール
+
+[Node.js](https://nodejs.org/ja/)
+
 ## インストール方法
 
     cd [Git cloneしたディレクトリ or Downloadディレクトリ]
