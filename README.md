@@ -18,7 +18,7 @@ Vue.jsのSFC（単一ファイルコンポーネント）＋PHPでWebアプリ�
 
     npm run start
 
-各画面の表示
+上のコマンドを実行後、以下のURLで各画面へのアクセスが可能。
 
 - [Hello画面](http://localhost:8080/hello-vuejs/index.html?componentPath=/Func/Hello/Front/View/Hello)
 - [Goodbye画面](http://localhost:8080/hello-vuejs/index.html?componentPath=/Func/Goodbye/Front/View/Goodbye)
